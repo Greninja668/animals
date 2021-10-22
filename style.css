@@ -1,0 +1,33 @@
+body{
+    background:blue;
+    font-family: Arial;
+}
+.header_div{
+    background:yellow;
+    color:red;
+}
+.header_div p{
+    font-family:sans-serif;
+    color:lime;
+    letter-spacing:2px;
+    font-size:12px;
+    font-weight:bold;
+}
+.main_div button{
+    font-family:comic;
+    margin-top:30px;
+    width:130px;
+    font-weight:bolder;
+    letter-spacing:4px;
+}
+.copy_right_footer{
+    position:fixed;
+    color:cyan;
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    background-color:yellow;
+    line-height:3;
+    text-align:center;
+    text-shadow:5px 5px 5px gold;
+}
